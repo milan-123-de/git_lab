@@ -1,3 +1,7 @@
-Welcome to Git
+ Welcome to Git
 Learning Git Basiccs
+<<<<<<< HEAD
 This line is from MAIN branch
+=======
+This line is from CONFLICT branch
+>>>>>>> conflict-branch
